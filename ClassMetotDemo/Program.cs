@@ -39,16 +39,7 @@ namespace ClassMetotDemo
 
             Console.WriteLine("Listeleme Methodu Çalıştı.");
             customerManager.CustomerList(customers);
-
-            //Console.WriteLine("Foreach ile listeleme yapıldı.");
-            //    foreach (var i in customers)
-            //    {
-            //        Console.WriteLine(i.Id + " no'lu ID'li " + i.Adi + " " + i.Soyadi);
-            //    }
-
             
-            
-
         }
     }
 }
